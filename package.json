@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/mdi": "^1.1.19",
+    "@iconify-json/twemoji": "^1.1.4",
+    "@iconify-json/uim": "^1.1.1",
+    "@mdi/font": "^6.7.96",
+    "@slidev/cli": "latest",
+    "@slidev/theme-bricks": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "markdown-it-katex": "^2.0.3",
+    "slidev-theme-purplin": "latest"
+  }
+}
